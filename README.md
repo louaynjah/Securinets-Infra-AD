@@ -76,5 +76,5 @@ Pour reproduire ce labo, vous avez besoin de :
 ---
 
 ## 📄 Rapport Complet
-Pour tous les détails techniques, captures d'écrans pas à pas et explications théoriques, consultez le rapport complet :
-👉 **[Télécharger le Rapport PDF](Securinets1.pdf)**
+Pour tous les détails techniques, captures d'écrans pas à pas et explications théoriques, consultez le rapport complet !
+
